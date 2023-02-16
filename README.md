@@ -16,7 +16,7 @@ License -> https://github.com/Jigarvarma2005/Telegraph-Uploader/blob/main/LICENS
 
 Deploy on Heroku
 <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/Jigarvarma2005/Telegraph-Uploader">
+  <a href="https://github.com/Aadarshab/Telegraph-bot">
      <img height="30px" src="https://img.shields.io/badge/Deploy%20To%20Heroku-blueviolet?style=for-the-badge&logo=heroku">
   </a>
 </p>
@@ -38,7 +38,7 @@ python3 bot.py
 
 ### Support
 
-* [GitHub](https://github.com/Jigarvarma2005)
+* [GitHub](https://github.com/Aadarshab/Telegraph-bot)
 * [Telegram](https://telegram.me/Jigarvarma2005)
 * [Updates Channel](https://t.me/UniversalBotsUpdate)
 * [Support Group](https://t.me/UniversalBotsSupport)
